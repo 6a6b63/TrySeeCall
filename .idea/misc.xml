@@ -3,18 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/drawable/ic_baseline_bike_scooter_24.xml" value="0.2555" />
         <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/drawable/ic_baseline_bookmark_add_24.xml" value="0.1955" />
+        <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/drawable/ic_baseline_gps_fixed_24.xml" value="0.2555" />
         <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1955" />
-        <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1955" />
+        <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/drawable/ic_baseline_person_pin_24.xml" value="0.1225" />
         <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/drawable/ic_bookmark.xml" value="0.1955" />
         <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/drawable/ic_home.xml" value="0.1955" />
         <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/drawable/ic_person.xml" value="0.1955" />
-        <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/activity_driver.xml" value="0.25" />
+        <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/activity_admin.xml" value="0.1" />
+        <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/activity_booking.xml" value="0.25" />
+        <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/activity_driver.xml" value="0.264" />
+        <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/activity_entry_driver.xml" value="0.264" />
         <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/activity_main.xml" value="0.24728260869565216" />
-        <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/activity_passenger_view.xml" value="0.25" />
+        <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/activity_register.xml" value="0.264" />
         <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/activity_splash.xml" value="0.25" />
-        <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/activity_try_see_call.xml" value="0.25" />
+        <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/activity_try_see_call.xml" value="0.1" />
         <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/bottom_layout.xml" value="0.25" />
         <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/custom_list_layout.xml" value="0.25" />
         <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/fragment_bookings.xml" value="0.25" />
@@ -24,7 +31,9 @@
         <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
         <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/fragment_second.xml" value="0.25" />
         <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/fragment_third.xml" value="0.25" />
+        <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/list_layout.xml" value="0.264" />
         <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/menu/bottom_menu.xml" value="0.25" />
+        <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1225" />
         <entry key="..\:/Users/John/AndroidStudioProjects/MyApplication5/app/src/main/res/xml/network_security_config.xml" value="0.25" />
       </map>
     </option>

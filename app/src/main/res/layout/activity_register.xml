@@ -18,16 +18,16 @@
         app:layout_constraintTop_toBottomOf="@+id/textView">
 
         <RadioButton
-            android:id="@+id/driver"
+            android:id="@+id/rb_passenger"
             android:layout_width="131dp"
             android:layout_height="wrap_content"
-            android:text="Driver" />
+            android:text="Passenger" />
 
         <RadioButton
-            android:id="@+id/passenger"
+            android:id="@+id/rb_driver"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Passenger" />
+            android:text="Driver" />
 
     </RadioGroup>
 
@@ -96,7 +96,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="34dp"
         android:layout_marginTop="2dp"
-        android:layout_marginEnd="284dp"
+        android:layout_marginEnd="316dp"
         android:text="Lastname"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -141,7 +141,7 @@
     <Button
         android:id="@+id/btn_insert"
         android:layout_width="342dp"
-        android:layout_height="49dp"
+        android:layout_height="60dp"
         android:layout_marginStart="34dp"
         android:layout_marginTop="16dp"
         android:layout_marginEnd="34dp"
@@ -149,6 +149,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
+        android:backgroundTint="#009C41"
         app:layout_constraintTop_toBottomOf="@+id/radiogroup" />
 
     <TextView
@@ -171,7 +172,7 @@
         android:layout_height="19dp"
         android:layout_marginStart="34dp"
         android:layout_marginTop="184dp"
-        android:layout_marginEnd="287dp"
+        android:layout_marginEnd="316dp"
         android:text="Email Address"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
